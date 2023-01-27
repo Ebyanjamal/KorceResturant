@@ -1,0 +1,60 @@
+{
+  "emails": [
+    {
+      "id": 1,
+      "email": "foo@bar.com"
+    },
+    {
+      "email": "ebyan@gmail.com",
+      "id": 2
+    },
+    {
+      "email": "sarah@yahoo.com",
+      "id": 3
+    },
+    {
+      "email": "sarah@yahoo.com",
+      "id": 4
+    },
+    {
+      "email": "ebyanjamal6@gmail.com",
+      "id": 5
+    },
+    {
+      "email": "ebyanjamal6@gmail.com",
+      "id": 6
+    },
+    {
+      "email": "ebyanjamal6@gmail.com",
+      "id": 7
+    },
+    {
+      "email": "slambert@gmail.com",
+      "id": 8
+    },
+    {
+      "email": "ebyanjamal6@gmail.com",
+      "id": 9
+    },
+    {
+      "email": "ebyan@gmail.com",
+      "id": 10
+    },
+    {
+      "email": "ebyanjamal6@gmail.com",
+      "id": 11
+    },
+    {
+      "email": "ebyanjamal6@gmail.com",
+      "id": 12
+    },
+    {
+      "email": "ebyanjamal6@gmail.com",
+      "id": 13
+    },
+    {
+      "email": "ebyanjamal6@gmail.com",
+      "id": 14
+    }
+  ]
+}
